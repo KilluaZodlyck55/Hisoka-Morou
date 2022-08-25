@@ -14,14 +14,22 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': '92a133731b',
 }
 
+// setting 
+global.autoread = false // auto read pesan / message
+global.autobio = true 
+
 // Other
+global.botname = "Killua-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ KilluaOfcོ ×፝֟͜×" //nama kalian
 global.owner = ['6289517185039','6289517185039','6289517185039','6289517185039']
+global.ownernomer = "6289517185039" // nomor wa kalian
+global.ownernomerr = "+6289517185039" //nmr wa kalian
 global.premium = ['6289517185039']
-global.packname = 'Nice Try KILL'
-global.author = 'Pizza'
+global.packname = '𝙉𝙞𝙘𝙚 𝙏𝙧𝙮 𝙕𝘼𝘼ン'
+global.author = '𝙋𝙞𝙯𝙯𝙖𝙖🍕'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
